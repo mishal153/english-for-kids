@@ -16,11 +16,14 @@ Printable English workbooks for 13-year-old Hindi-speaking children who have no 
 
 ## Content Guidelines
 
-- Keep sentences short and simple (max 5–6 words)
+- Keep sentences short and simple (max 15 words).
+- for every new topic, provide some explanation of the concept. and provide plenty of examples along with it.
 - Provide the Hindi meaning below or beside English content where necessary
 - Leave generous blank space for writing (use blank lines or underscores)
 - Avoid idioms or culturally unfamiliar references
 - Avoid religious references
+- if you add any worksheet, add a corresponding answer sheet
+- if you update any worksheet, update the corresponding answer sheet too
 
 ## Lesson Progression
 
