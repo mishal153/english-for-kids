@@ -1,9 +1,9 @@
-# Lesson 36 — Connectors: and / but
+# Lesson 37 — Connectors: and / but
 ## विषय: जोड़ने वाले शब्द — and / but
 
 ---
 
-### Understand First | पहले समझो
+## Concept | अवधारणा
 
 | Word | Hindi | Use |
 |------|-------|-----|

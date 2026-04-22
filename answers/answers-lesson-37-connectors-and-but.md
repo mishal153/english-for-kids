@@ -1,4 +1,4 @@
-# Answers — Lesson 36: Connectors and / but
+# Answers — Lesson 37: Connectors and / but
 ## उत्तर — पाठ 36
 
 ---

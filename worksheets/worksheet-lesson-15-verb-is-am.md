@@ -1,9 +1,9 @@
-# Lesson 14 — Verbs: is / am
+# Lesson 15 — Verbs: is / am
 ## विषय: क्रिया — is / am
 
 ---
 
-### Understand First | पहले समझो
+## Concept | अवधारणा
 
 | Hindi | English |
 |-------|---------|

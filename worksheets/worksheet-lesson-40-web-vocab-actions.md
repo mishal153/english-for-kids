@@ -1,5 +1,17 @@
-# Lesson 39 — Web Vocabulary: Actions
+# Lesson 40 — Web Vocabulary: Actions
 ## विषय: इंटरनेट के शब्द — काम के शब्द
+
+---
+
+## Concept | अवधारणा
+
+**Action** words on websites tell you what to do — these are like instructions. You will see them on shopping sites, government portals, and apps.
+वेबसाइट पर काम के शब्द आपको बताते हैं कि क्या करना है। ये शब्द खरीदारी साइट, सरकारी पोर्टल और ऐप पर मिलते हैं।
+
+Examples | उदाहरण:
+- **Click** — माउस या उँगली से दबाओ
+- **Download** — फ़ाइल अपने मोबाइल में सेव करो
+- **Buy** — कुछ खरीदो
 
 ---
 

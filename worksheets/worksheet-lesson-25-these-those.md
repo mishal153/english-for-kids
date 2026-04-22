@@ -1,9 +1,9 @@
-# Lesson 24 — These / Those
+# Lesson 25 — These / Those
 ## विषय: ये / वे
 
 ---
 
-### Understand First | पहले समझो
+## Concept | अवधारणा
 
 | Hindi | English | Use when |
 |-------|---------|----------|

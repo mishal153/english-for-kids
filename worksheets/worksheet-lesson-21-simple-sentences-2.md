@@ -1,9 +1,9 @@
-# Lesson 20 — Simple Sentences (Part 2)
+# Lesson 21 — Simple Sentences (Part 2)
 ## विषय: सरल वाक्य — भाग 2
 
 ---
 
-### Understand First | पहले समझो
+## Concept | अवधारणा
 
 When subject is **he / she / it** → verb gets **-s**
 जब कर्ता he / she / it हो → क्रिया में **-s** जोड़ते हैं

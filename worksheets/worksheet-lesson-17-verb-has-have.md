@@ -1,9 +1,9 @@
-# Lesson 16 — Verbs: has / have
+# Lesson 17 — Verbs: has / have
 ## विषय: क्रिया — has / have
 
 ---
 
-### Understand First | पहले समझो
+## Concept | अवधारणा
 
 | Hindi | English |
 |-------|---------|

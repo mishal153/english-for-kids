@@ -1,5 +1,17 @@
-# Lesson 17 — Colors
+# Lesson 18 — Colors
 ## विषय: रंग
+
+---
+
+## Concept | अवधारणा
+
+**Colors** (रंग) describe what something looks like. In English, a color word comes **before** the noun.
+अंग्रेज़ी में रंग का शब्द संज्ञा से **पहले** आता है।
+
+Examples | उदाहरण:
+- **red** pen (लाल कलम)
+- **blue** sky (नीला आकाश)
+- **green** tree (हरा पेड़)
 
 ---
 

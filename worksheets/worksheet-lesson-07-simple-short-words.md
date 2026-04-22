@@ -3,6 +3,18 @@
 
 ---
 
+## Concept | अवधारणा
+
+A **noun** (संज्ञा) is a word for a person, place, animal, or thing. Short nouns are some of the first words you learn in English.
+संज्ञा किसी व्यक्ति, जगह, जानवर या चीज़ का नाम होती है।
+
+Examples | उदाहरण:
+- **dog** = कुत्ता (animal | जानवर)
+- **sun** = सूरज (nature | प्रकृति)
+- **bag** = थैला (thing | चीज़)
+
+---
+
 ### Word List | शब्द सूची
 
 These are short, common English words. | ये छोटे और आम अंग्रेज़ी शब्द हैं।

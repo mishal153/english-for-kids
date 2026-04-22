@@ -1,9 +1,9 @@
-# Lesson 22 — Article: the
+# Lesson 23 — Article: the
 ## विषय: "the" का उपयोग
 
 ---
 
-### Understand First | पहले समझो
+## Concept | अवधारणा
 
 Use **the** when you talk about a **specific** thing.
 जब हम किसी **खास** चीज़ की बात करते हैं तो **the** लगाते हैं।

@@ -1,9 +1,9 @@
-# Lesson 34 — Prepositions: in / on / at
+# Lesson 35 — Prepositions: in / on / at
 ## विषय: पूर्वसर्ग — in / on / at
 
 ---
 
-### Understand First | पहले समझो
+## Concept | अवधारणा
 
 | Preposition | Use for | Hindi | Example |
 |-------------|---------|-------|---------|

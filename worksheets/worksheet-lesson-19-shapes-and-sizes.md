@@ -1,5 +1,17 @@
-# Lesson 18 — Shapes and Sizes
+# Lesson 19 — Shapes and Sizes
 ## विषय: आकार और नाप
+
+---
+
+## Concept | अवधारणा
+
+**Shape** (आकार) words describe the form of an object. **Size** (नाप/आकार) words describe how big or small something is. Like colors, these words come **before** the noun in English.
+आकार और नाप के शब्द संज्ञा से **पहले** आते हैं।
+
+Examples | उदाहरण:
+- a **round** ball (गोल गेंद)
+- a **big** box (बड़ा डिब्बा)
+- a **small** pen (छोटी कलम)
 
 ---
 

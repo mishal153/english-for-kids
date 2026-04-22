@@ -1,9 +1,9 @@
-# Lesson 33 — Future Tense: going to
+# Lesson 34 — Future Tense: going to
 ## विषय: भविष्यकाल — going to
 
 ---
 
-### Understand First | पहले समझो
+## Concept | अवधारणा
 
 **going to** = plan that is already decided | जो पहले से तय हो
 

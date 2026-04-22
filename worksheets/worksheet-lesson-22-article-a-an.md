@@ -1,9 +1,9 @@
-# Lesson 21 — Articles: a / an
+# Lesson 22 — Articles: a / an
 ## विषय: a और an का उपयोग
 
 ---
 
-### Understand First | पहले समझो
+## Concept | अवधारणा
 
 - Use **a** before a word that starts with a **consonant** (व्यंजन)
   → a dog, a book, a pen

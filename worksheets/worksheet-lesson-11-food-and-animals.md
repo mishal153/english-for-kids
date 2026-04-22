@@ -1,5 +1,17 @@
-# Lesson 10 — Food and Animals
+# Lesson 11 — Food and Animals
 ## विषय: खाना और जानवर
+
+---
+
+## Concept | अवधारणा
+
+**Food** (खाना) and **animal** (जानवर) words are very common in daily life — at the market, on labels, and in school books.
+खाने और जानवरों के शब्द रोज़ बाज़ार, लेबल और किताबों में काम आते हैं।
+
+Examples | उदाहरण:
+- **rice** = चावल (food)
+- **mango** = आम (food)
+- **cow** = गाय (animal)
 
 ---
 

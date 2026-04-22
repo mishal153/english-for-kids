@@ -1,4 +1,4 @@
-# Answers — Lesson 16: Verbs has / have
+# Answers — Lesson 17: Verbs has / have
 ## उत्तर — पाठ 16
 
 ---

@@ -1,4 +1,4 @@
-# Answers — Lesson 23: This / That
+# Answers — Lesson 24: This / That
 ## उत्तर — पाठ 23
 
 ---

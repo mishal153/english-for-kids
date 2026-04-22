@@ -1,4 +1,4 @@
-# Answers — Lesson 26: Question Words Where / When / How / Why
+# Answers — Lesson 27: Question Words Where / When / How / Why
 ## उत्तर — पाठ 26
 
 ---

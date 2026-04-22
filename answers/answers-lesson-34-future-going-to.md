@@ -1,4 +1,4 @@
-# Answers — Lesson 33: Future Tense going to
+# Answers — Lesson 34: Future Tense going to
 ## उत्तर — पाठ 33
 
 ---

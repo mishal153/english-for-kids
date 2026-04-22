@@ -1,4 +1,4 @@
-# Answers — Lesson 09: Home Items
+# Answers — Lesson 10: Home Items
 ## उत्तर — पाठ 09
 
 ---

@@ -1,5 +1,17 @@
-# Lesson 12 — Introductions
+# Lesson 13 — Introductions
 ## विषय: अपना परिचय देना
+
+---
+
+## Concept | अवधारणा
+
+An **introduction** (परिचय) is how you tell someone your name, age, and where you live. In English, we use set phrases for this.
+परिचय वह होता है जब आप किसी को अपना नाम, उम्र और घर बताते हैं।
+
+Examples | उदाहरण:
+- **My name is Ravi.** = मेरा नाम रवि है।
+- **I am 13 years old.** = मैं 13 साल का हूँ।
+- **I live in Delhi.** = मैं दिल्ली में रहता हूँ।
 
 ---
 

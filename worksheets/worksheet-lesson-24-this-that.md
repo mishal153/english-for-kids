@@ -1,9 +1,9 @@
-# Lesson 23 — This / That
+# Lesson 24 — This / That
 ## विषय: यह / वह
 
 ---
 
-### Understand First | पहले समझो
+## Concept | अवधारणा
 
 | Hindi | English | Use when |
 |-------|---------|----------|

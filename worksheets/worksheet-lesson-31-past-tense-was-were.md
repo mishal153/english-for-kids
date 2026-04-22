@@ -1,9 +1,9 @@
-# Lesson 30 — Past Tense: was / were
+# Lesson 31 — Past Tense: was / were
 ## विषय: भूतकाल — was / were
 
 ---
 
-### Understand First | पहले समझो
+## Concept | अवधारणा
 
 **was** and **were** are the past forms of **is / am / are**
 

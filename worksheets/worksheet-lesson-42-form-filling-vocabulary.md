@@ -1,5 +1,17 @@
-# Lesson 41 — Form-Filling Vocabulary
+# Lesson 42 — Form-Filling Vocabulary
 ## विषय: फ़ॉर्म भरने के शब्द
+
+---
+
+## Concept | अवधारणा
+
+Government forms (सरकारी फ़ॉर्म) — like Aadhaar, ration card, or school admission forms — use specific English words. Knowing these words helps you fill forms correctly on your own.
+आधार कार्ड, राशन कार्ड, स्कूल एडमिशन जैसे फ़ॉर्म में अंग्रेज़ी के खास शब्द होते हैं। इन्हें जानने से आप खुद फ़ॉर्म भर सकते हैं।
+
+Examples | उदाहरण:
+- **Full Name** = पूरा नाम
+- **Date of Birth** = जन्म तिथि
+- **District** = जिला
 
 ---
 

@@ -1,4 +1,4 @@
-# Answers — Lesson 15: Verb are
+# Answers — Lesson 16: Verb are
 ## उत्तर — पाठ 15
 
 ---

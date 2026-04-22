@@ -1,9 +1,9 @@
-# Lesson 29 — Present Tense: We / They
+# Lesson 30 — Present Tense: We / They
 ## विषय: वर्तमान काल — We / They
 
 ---
 
-### Understand First | पहले समझो
+## Concept | अवधारणा
 
 | Hindi | English |
 |-------|---------|

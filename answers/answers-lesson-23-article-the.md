@@ -1,4 +1,4 @@
-# Answers — Lesson 22: Article the
+# Answers — Lesson 23: Article the
 ## उत्तर — पाठ 22
 
 ---

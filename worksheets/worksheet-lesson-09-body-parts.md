@@ -1,5 +1,17 @@
-# Lesson 08 — Body Parts
+# Lesson 09 — Body Parts
 ## विषय: शरीर के अंग
+
+---
+
+## Concept | अवधारणा
+
+**Body part** words (शरीर के अंग) are some of the most useful words in any language. In English, doctors, forms, and school books use these words.
+शरीर के अंगों के शब्द डॉक्टर, स्कूल और फ़ॉर्म में काम आते हैं।
+
+Examples | उदाहरण:
+- **head** = सिर
+- **hand** = हाथ
+- **eye** = आँख
 
 ---
 

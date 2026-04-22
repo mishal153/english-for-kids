@@ -1,4 +1,4 @@
-# Answers — Lesson 25: Question Words What / Who
+# Answers — Lesson 26: Question Words What / Who
 ## उत्तर — पाठ 25
 
 ---

@@ -1,9 +1,9 @@
-# Lesson 25 — Question Words: What / Who
+# Lesson 26 — Question Words: What / Who
 ## विषय: प्रश्नवाचक शब्द — What / Who
 
 ---
 
-### Understand First | पहले समझो
+## Concept | अवधारणा
 
 | Hindi | English | Used for |
 |-------|---------|----------|

@@ -1,9 +1,9 @@
-# Lesson 31 — Past Tense: went / did / ate
+# Lesson 32 — Past Tense: went / did / ate
 ## विषय: भूतकाल — गया, किया, खाया
 
 ---
 
-### Understand First | पहले समझो
+## Concept | अवधारणा
 
 These are irregular past tense verbs. | ये अनियमित भूतकाल क्रियाएँ हैं।
 

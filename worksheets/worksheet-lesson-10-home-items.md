@@ -1,5 +1,17 @@
-# Lesson 09 — Home Items
+# Lesson 10 — Home Items
 ## विषय: घर की चीज़ें
+
+---
+
+## Concept | अवधारणा
+
+We use **nouns** (संज्ञा) to name things in and around the home. Knowing home item words helps you describe your house, read labels, and fill in forms.
+घर की चीज़ों के नाम जानने से आप घर का वर्णन कर सकते हैं और फ़ॉर्म भर सकते हैं।
+
+Examples | उदाहरण:
+- **door** = दरवाज़ा
+- **bed** = बिस्तर
+- **fan** = पंखा
 
 ---
 

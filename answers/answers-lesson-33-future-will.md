@@ -1,4 +1,4 @@
-# Answers — Lesson 32: Future Tense will
+# Answers — Lesson 33: Future Tense will
 ## उत्तर — पाठ 32
 
 ---

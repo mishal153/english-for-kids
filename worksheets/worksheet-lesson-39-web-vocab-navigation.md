@@ -1,5 +1,17 @@
-# Lesson 38 — Web Vocabulary: Navigation
+# Lesson 39 — Web Vocabulary: Navigation
 ## विषय: इंटरनेट के शब्द — नेविगेशन
+
+---
+
+## Concept | अवधारणा
+
+**Navigation** words are the buttons and links you see on every website. They help you move between pages.
+नेविगेशन शब्द वेबसाइट के बटन और लिंक होते हैं जो एक पेज से दूसरे पेज जाने में मदद करते हैं।
+
+Examples | उदाहरण:
+- **Home** — मुख्य पृष्ठ पर जाओ
+- **Back** — पिछले पेज पर जाओ
+- **Search** — कुछ खोजो
 
 ---
 

@@ -3,6 +3,18 @@
 
 ---
 
+## Concept | अवधारणा
+
+In this lesson we practice the second half of lowercase letters: **n to z**.
+इस पाठ में हम छोटे अक्षरों का दूसरा भाग सीखते हैं — n से z तक।
+
+Examples | उदाहरण:
+- **n** for name (नाम)
+- **s** for sun (सूरज)
+- **z** for zero (शून्य)
+
+---
+
 ### Exercise 1: Trace the Letters | अक्षर बनाओ
 
 ```

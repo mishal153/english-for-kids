@@ -1,9 +1,9 @@
-# Lesson 32 — Future Tense: will
+# Lesson 33 — Future Tense: will
 ## विषय: भविष्यकाल — will
 
 ---
 
-### Understand First | पहले समझो
+## Concept | अवधारणा
 
 Use **will** to talk about the future. | भविष्य की बात करने के लिए **will** लगाते हैं।
 

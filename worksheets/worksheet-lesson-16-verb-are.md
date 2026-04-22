@@ -1,9 +1,9 @@
-# Lesson 15 — Verb: are
+# Lesson 16 — Verb: are
 ## विषय: क्रिया — are
 
 ---
 
-### Understand First | पहले समझो
+## Concept | अवधारणा
 
 | Hindi | English |
 |-------|---------|

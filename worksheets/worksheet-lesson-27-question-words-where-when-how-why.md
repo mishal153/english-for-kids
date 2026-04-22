@@ -1,9 +1,9 @@
-# Lesson 26 — Question Words: Where / When / How / Why
+# Lesson 27 — Question Words: Where / When / How / Why
 ## विषय: प्रश्नवाचक शब्द — Where / When / How / Why
 
 ---
 
-### Understand First | पहले समझो
+## Concept | अवधारणा
 
 | Hindi | English | Used for |
 |-------|---------|----------|

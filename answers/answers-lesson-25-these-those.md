@@ -1,4 +1,4 @@
-# Answers — Lesson 24: These / Those
+# Answers — Lesson 25: These / Those
 ## उत्तर — पाठ 24
 
 ---

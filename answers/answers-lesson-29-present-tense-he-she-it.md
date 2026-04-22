@@ -1,4 +1,4 @@
-# Answers — Lesson 28: Present Tense He / She / It
+# Answers — Lesson 29: Present Tense He / She / It
 ## उत्तर — पाठ 28
 
 ---

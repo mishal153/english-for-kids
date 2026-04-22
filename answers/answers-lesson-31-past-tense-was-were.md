@@ -1,4 +1,4 @@
-# Answers — Lesson 30: Past Tense was / were
+# Answers — Lesson 31: Past Tense was / were
 ## उत्तर — पाठ 30
 
 ---

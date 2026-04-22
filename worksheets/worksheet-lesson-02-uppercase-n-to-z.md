@@ -3,6 +3,18 @@
 
 ---
 
+## Concept | अवधारणा
+
+In this lesson we learn the second half of the uppercase alphabet: **N to Z**.
+इस पाठ में हम बड़े अक्षरों का दूसरा भाग सीखते हैं — N से Z तक।
+
+Examples | उदाहरण:
+- **N** for Name (नाम)
+- **S** for Sun (सूरज)
+- **Z** for Zero (शून्य)
+
+---
+
 ### Exercise 1: Trace the Letters | अक्षर बनाओ
 
 Trace each letter carefully. | हर अक्षर को ध्यान से लिखो।

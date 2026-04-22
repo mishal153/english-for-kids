@@ -3,6 +3,18 @@
 
 ---
 
+## Concept | अवधारणा
+
+Numbers 11 to 20 have special names in English — they do not follow the same pattern as later numbers. You need to remember each name separately.
+11 से 20 तक के अंग्रेज़ी नाम अलग-अलग होते हैं — इन्हें याद करना होगा।
+
+Examples | उदाहरण:
+- 11 → **eleven** (ग्यारह)
+- 15 → **fifteen** (पंद्रह)
+- 20 → **twenty** (बीस)
+
+---
+
 ### Word List | शब्द सूची
 
 | Number | English | Hindi |

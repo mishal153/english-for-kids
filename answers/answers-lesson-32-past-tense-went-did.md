@@ -1,4 +1,4 @@
-# Answers — Lesson 31: Past Tense went / did / ate
+# Answers — Lesson 32: Past Tense went / did / ate
 ## उत्तर — पाठ 31
 
 ---

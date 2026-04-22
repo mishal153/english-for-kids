@@ -1,9 +1,9 @@
-# Lesson 35 — Prepositions: from / with / by
+# Lesson 36 — Prepositions: from / with / by
 ## विषय: पूर्वसर्ग — from / with / by
 
 ---
 
-### Understand First | पहले समझो
+## Concept | अवधारणा
 
 | Preposition | Hindi | Example |
 |-------------|-------|---------|

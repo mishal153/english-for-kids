@@ -1,5 +1,18 @@
-# Lesson 07 — Days and Months
+# Lesson 08 — Days and Months
 ## विषय: दिन और महीने
+
+---
+
+## Concept | अवधारणा
+
+In English, days and months always start with a **capital (uppercase) letter**.
+अंग्रेज़ी में दिनों और महीनों के नाम हमेशा बड़े अक्षर से शुरू होते हैं।
+
+There are **7 days** in a week (सप्ताह में 7 दिन) and **12 months** in a year (साल में 12 महीने)।
+
+Examples | उदाहरण:
+- **Monday** = सोमवार
+- **January** = जनवरी
 
 ---
 

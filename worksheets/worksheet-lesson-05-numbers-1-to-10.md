@@ -3,6 +3,18 @@
 
 ---
 
+## Concept | अवधारणा
+
+In English, every number has a name (शब्द). We use number names when reading aloud, filling forms, or reading a bill.
+अंग्रेज़ी में हर संख्या का एक नाम होता है। फ़ॉर्म भरते और बोलते समय इनका उपयोग होता है।
+
+Examples | उदाहरण:
+- 1 → **one** (एक)
+- 5 → **five** (पाँच)
+- 10 → **ten** (दस)
+
+---
+
 ### Word List | शब्द सूची
 
 | Number | English | Hindi |

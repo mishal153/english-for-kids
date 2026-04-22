@@ -1,5 +1,17 @@
-# Lesson 11 — Greetings
+# Lesson 12 — Greetings
 ## विषय: अभिवादन
+
+---
+
+## Concept | अवधारणा
+
+**Greetings** (अभिवादन) are words we use when we meet someone or say goodbye. In English, the greeting changes depending on the time of day.
+अभिवादन वे शब्द हैं जो हम किसी से मिलने पर कहते हैं। अंग्रेज़ी में समय के अनुसार अभिवादन बदलता है।
+
+Examples | उदाहरण:
+- सुबह → **Good morning** (शुभ प्रभात)
+- शाम → **Good evening** (शुभ संध्या)
+- जाते समय → **Goodbye** (अलविदा)
 
 ---
 

@@ -1,9 +1,9 @@
-# Lesson 37 — Connectors: because / so / then
+# Lesson 38 — Connectors: because / so / then
 ## विषय: जोड़ने वाले शब्द — because / so / then
 
 ---
 
-### Understand First | पहले समझो
+## Concept | अवधारणा
 
 | Word | Hindi | Use |
 |------|-------|-----|

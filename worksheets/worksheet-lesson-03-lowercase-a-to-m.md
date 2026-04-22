@@ -3,6 +3,22 @@
 
 ---
 
+## Concept | अवधारणा
+
+**Lowercase** letters (छोटे अक्षर) are used for most writing — inside sentences, in words, on websites and forms.
+छोटे अक्षर लिखने में सबसे ज़्यादा इस्तेमाल होते हैं।
+
+Each uppercase letter has a lowercase pair:
+हर बड़े अक्षर का एक छोटा रूप होता है।
+
+| Uppercase | Lowercase |
+|-----------|-----------|
+| A | a |
+| B | b |
+| C | c |
+
+---
+
 ### Exercise 1: Trace the Letters | अक्षर बनाओ
 
 Trace each letter carefully. | हर अक्षर को ध्यान से लिखो।

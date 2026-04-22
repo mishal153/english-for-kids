@@ -1,9 +1,9 @@
-# Lesson 28 — Present Tense: He / She / It
+# Lesson 29 — Present Tense: He / She / It
 ## विषय: वर्तमान काल — He / She / It
 
 ---
 
-### Understand First | पहले समझो
+## Concept | अवधारणा
 
 When subject is **he / she / it** → add **-s** to the verb!
 जब कर्ता he / she / it हो → क्रिया में **-s** जोड़ते हैं!

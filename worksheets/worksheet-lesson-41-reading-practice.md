@@ -1,5 +1,17 @@
-# Lesson 40 — Reading Practice: Web-Style Sentences
+# Lesson 41 — Reading Practice: Web-Style Sentences
 ## विषय: पढ़ने का अभ्यास — वेबसाइट जैसे वाक्य
+
+---
+
+## Concept | अवधारणा
+
+**Reading practice** means reading real sentences and understanding their meaning — without translating every word. Try to guess the meaning from the words you already know.
+पढ़ने का अभ्यास मतलब असली वाक्य पढ़ना और उनका मतलब समझना — हर शब्द का अनुवाद किए बिना।
+
+Tips | सुझाव:
+- Read the full sentence first. | पहले पूरा वाक्य पढ़ो।
+- Look for words you already know. | जो शब्द जानते हो उन्हें पहचानो।
+- Use Hindi hints to check your understanding. | हिंदी संकेत से अपनी समझ जाँचो।
 
 ---
 

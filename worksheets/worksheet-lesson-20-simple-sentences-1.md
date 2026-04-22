@@ -1,9 +1,9 @@
-# Lesson 19 — Simple Sentences (Part 1)
+# Lesson 20 — Simple Sentences (Part 1)
 ## विषय: सरल वाक्य — भाग 1
 
 ---
 
-### Understand First | पहले समझो
+## Concept | अवधारणा
 
 A simple sentence = **Subject + Verb + Object**
 सरल वाक्य = **कर्ता + क्रिया + कर्म**

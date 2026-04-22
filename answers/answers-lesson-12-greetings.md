@@ -1,4 +1,4 @@
-# Answers — Lesson 11: Greetings
+# Answers — Lesson 12: Greetings
 ## उत्तर — पाठ 11
 
 ---

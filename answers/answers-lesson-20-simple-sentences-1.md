@@ -1,4 +1,4 @@
-# Answers — Lesson 19: Simple Sentences Part 1
+# Answers — Lesson 20: Simple Sentences Part 1
 ## उत्तर — पाठ 19
 
 ---

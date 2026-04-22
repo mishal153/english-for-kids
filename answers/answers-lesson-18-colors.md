@@ -1,4 +1,4 @@
-# Answers — Lesson 17: Colors
+# Answers — Lesson 18: Colors
 ## उत्तर — पाठ 17
 
 ---

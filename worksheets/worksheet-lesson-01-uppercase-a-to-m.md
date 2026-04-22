@@ -3,6 +3,20 @@
 
 ---
 
+## Concept | अवधारणा
+
+English has **26 letters** (अक्षर). There are two forms: **Uppercase** (बड़े अक्षर, जैसे A, B, C) and **Lowercase** (छोटे अक्षर, जैसे a, b, c).
+
+Uppercase letters are used at the start of a sentence and for names.
+बड़े अक्षर वाक्य की शुरुआत में और नामों में उपयोग होते हैं।
+
+Examples | उदाहरण:
+- **A** for Apple (सेब)
+- **B** for Ball (गेंद)
+- **C** for Cat (बिल्ली)
+
+---
+
 ### Exercise 1: Trace the Letters | अक्षर बनाओ
 
 Trace each letter carefully. | हर अक्षर को ध्यान से लिखो।

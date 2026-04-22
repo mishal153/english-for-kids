@@ -1,5 +1,17 @@
-# Lesson 13 — Polite Expressions
+# Lesson 14 — Polite Expressions
 ## विषय: शिष्ट शब्द
+
+---
+
+## Concept | अवधारणा
+
+**Polite expressions** (शिष्ट शब्द) are words that show good manners. Using them makes communication friendly and respectful.
+शिष्ट शब्द वे होते हैं जो हमारी बातचीत को विनम्र और अच्छा बनाते हैं।
+
+Examples | उदाहरण:
+- **Please** (कृपया) — used when asking for something
+- **Thank you** (धन्यवाद) — used when someone helps you
+- **Sorry** (माफ़ करना) — used when you make a mistake
 
 ---
 

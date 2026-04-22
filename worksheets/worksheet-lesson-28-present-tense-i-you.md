@@ -1,9 +1,9 @@
-# Lesson 27 — Present Tense: I / You
+# Lesson 28 — Present Tense: I / You
 ## विषय: वर्तमान काल — I / You
 
 ---
 
-### Understand First | पहले समझो
+## Concept | अवधारणा
 
 Present tense = what happens every day / right now
 वर्तमान काल = जो रोज़ होता है / अभी होता है
