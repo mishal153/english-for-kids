@@ -1,10 +1,10 @@
 # Execution Plan: 40 Lesson Workbooks
 
 ## Goal
-Generate all 40 printable Markdown lesson files per the spec in CLAUDE.md. Each file is a standalone workbook page for a 13-year-old Hindi-speaking beginner, printed and filled in with pencil.
+Generate all 40 printable Markdown lesson workbook files per the spec in CLAUDE.md. Each file is a standalone workbook page for a 13-year-old Hindi-speaking beginner, printed and filled in with pencil. or each worksheet also create an answer sheet containing 
 
 ## File Naming
-`lesson-NN-short-topic-slug.md`, e.g. `lesson-01-alphabet-uppercase.md`
+`type-lesson-NN-short-topic-slug.md`, e.g. `worksheet-lesson-01-alphabet-uppercase.md`
 
 ## Per-file Structure
 Every lesson file follows this template:
@@ -20,7 +20,7 @@ Every lesson file follows this template:
 ---
 ```
 
-Leave 2–3 blank lines after every answer blank for writing space. Always include Hindi translation for every English word or phrase introduced.
+Leave 2–3 blank lines after every answer blank for writing space. Always include Hindi translation for every English word or phrase introduced. Create a separate file for correct answers.
 
 ## Batch 1 — Series 1: Foundations (lessons 01–20)
 
@@ -50,6 +50,4 @@ Leave 2–3 blank lines after every answer blank for writing space. Always inclu
 | 40 | Reading practice — real-style web sentences | Fill blank |
 
 ## Verification
-- Open lesson files in VS Code Markdown preview to confirm layout
-- Check Devanagari script renders correctly
 - Confirm blank lines give adequate writing space when printed
