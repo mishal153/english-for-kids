@@ -47,11 +47,11 @@ She ___________ smart.
 It ___________ a dog.
 
 
-मैं तेरह साल का हूँ।
-I ___________ thirteen years old.
+मैं आवेदक हूँ।
+I ___________ the applicant.
 
 
-वह मेरा दोस्त है।
-He ___________ my friend.
+यह फ़ॉर्म अनिवार्य है।
+This form ___________ required.
 
 ---

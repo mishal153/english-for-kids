@@ -44,11 +44,11 @@ He comes ___________ bus.
 I went ___________ my mother.
 
 
-कृपया 3 बजे तक आ जाओ।
-Please come ___________ 3 o'clock.
+मैं जिला वाराणसी से हूँ।
+I am ___________ district Varanasi.
 
 
-यह पत्र राम से आया।
-This letter is ___________ Ram.
+यह पत्र सरकारी कार्यालय से आया।
+This letter is ___________ the government office.
 
 ---

@@ -43,12 +43,12 @@ ___________ is your best friend?
 (तुम्हारा सबसे अच्छा दोस्त कौन है?)
 
 
-___________ colour is the sky?
-(आसमान का रंग क्या है?)
+___________ is your date of birth?
+(आपकी जन्म तिथि क्या है?)
 
 
-___________ is knocking the door?
-(दरवाज़ा कौन खटखटा रहा है?)
+___________ is the applicant on this form?
+(इस फ़ॉर्म का आवेदक कौन है?)
 
 ---
 

@@ -21,5 +21,9 @@ Exercise 3 has personal answers — check that the student used the correct sent
 - I live in **[city/place]**.
 - I study in class **[number]**.
 - My favourite colour is **[colour]**.
+- My father's name is **[name]**.
+- My date of birth is **[date]**.
+- My district is **[district]**.
+- My state is **[state]**.
 
 ---

@@ -22,8 +22,8 @@ He comes **by** bus.
 
 I went **with** my mother.
 
-Please come **by** 3 o'clock.
+I am **from** district Varanasi.
 
-This letter is **from** Ram.
+This letter is **from** the government office.
 
 ---

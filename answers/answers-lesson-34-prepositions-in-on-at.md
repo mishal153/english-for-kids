@@ -18,11 +18,11 @@ The book is **on** the table.
 
 I am **at** school.
 
-It is **in** the box.
+I live **in** district Agra.
 
-I will come **on** Monday.
+The office opens **on** Monday.
 
-The party is **at** 5 o'clock.
+Submit the application **at** 5 o'clock.
 
 She lives **in** India.
 

@@ -50,11 +50,11 @@ We ___________ two pens.
 She ___________ long hair.
 
 
-उनके पास बड़ा घर है।
-They ___________ a big house.
+मेरे पास आधार कार्ड है।
+I ___________ an Aadhaar card.
 
 
-तुम्हारे पास क्या है?
-What do you ___________ ?
+आवेदक के पास मोबाइल नंबर है।
+The applicant ___________ a mobile number.
 
 ---

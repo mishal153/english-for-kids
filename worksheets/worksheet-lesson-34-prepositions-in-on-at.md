@@ -36,16 +36,16 @@ The book is ___________ the table.
 I am ___________ school.
 
 
-वह बॉक्स के अंदर है।
-It is ___________ the box.
+मैं जिला आगरा में रहता हूँ।
+I live ___________ district Agra.
 
 
-मैं सोमवार को आऊँगा।
-I will come ___________ Monday.
+कार्यालय सोमवार को खुलता है।
+The office opens ___________ Monday.
 
 
-पार्टी 5 बजे है।
-The party is ___________ 5 o'clock.
+आवेदन 5 बजे तक जमा करें।
+Submit the application ___________ 5 o'clock.
 
 
 वह भारत में रहती है।

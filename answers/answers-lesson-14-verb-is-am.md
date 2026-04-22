@@ -13,9 +13,9 @@ She **is** smart.
 
 It **is** a dog.
 
-I **am** thirteen years old.
+I **am** the applicant.
 
-He **is** my friend.
+This form **is** required.
 
 ---
 

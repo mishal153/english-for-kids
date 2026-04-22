@@ -13,9 +13,9 @@ We **have** two pens.
 
 She **has** long hair.
 
-They **have** a big house.
+I **have** an Aadhaar card.
 
-What do you **have**?
+The applicant **has** a mobile number.
 
 ---
 

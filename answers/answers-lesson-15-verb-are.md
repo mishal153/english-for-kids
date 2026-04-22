@@ -13,9 +13,9 @@ They **are** outside.
 
 I **am** fine.
 
-She **is** clever.
+These documents **are** required.
 
-Ram and Shyam **are** friends.
+We **are** applicants.
 
 ---
 

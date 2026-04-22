@@ -22,8 +22,8 @@
 
 **Why** is the sky blue?
 
-**When** do you go home?
+**Where** is your district?
 
-**How** do you write — with a pen or pencil?
+**How** do you submit this form — online or offline?
 
 ---

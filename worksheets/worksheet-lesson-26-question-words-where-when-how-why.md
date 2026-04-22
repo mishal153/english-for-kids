@@ -45,11 +45,11 @@ ___________ is the sky blue?
 (आसमान नीला क्यों है?)
 
 
-___________ do you go home?
-(तुम घर कब जाते हो?)
+___________ is your district?
+(आपका जिला कहाँ है?)
 
 
-___________ do you write — with a pen or pencil?
-(तुम कैसे लिखते हो?)
+___________ do you submit this form — online or offline?
+(यह फ़ॉर्म कैसे जमा करते हैं — ऑनलाइन या ऑफ़लाइन?)
 
 ---

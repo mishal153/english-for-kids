@@ -48,11 +48,11 @@ They ___________ outside.
 I ___________ fine.
 
 
-वह लड़की चालाक है।
-She ___________ clever.
+ये दस्तावेज़ ज़रूरी हैं।
+These documents ___________ required.
 
 
-राम और श्याम दोस्त हैं।
-Ram and Shyam ___________ friends.
+हम आवेदक हैं।
+We ___________ applicants.
 
 ---

@@ -22,9 +22,9 @@
 
 **Who** is your best friend?
 
-**What** colour is the sky?
+**What** is your date of birth?
 
-**Who** is knocking the door?
+**Who** is the applicant on this form?
 
 ---
 
